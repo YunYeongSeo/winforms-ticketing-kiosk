@@ -1,0 +1,33 @@
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\bin\Debug\ConcertTicketing.exe.config
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\bin\Debug\ConcertTicketing.exe
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\bin\Debug\ConcertTicketing.pdb
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.csproj.AssemblyReference.cache
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Properties.Resources.resources
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.csproj.GenerateResource.cache
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.csproj.CoreCompileInputs.cache
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.exe
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.pdb
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.exe.config
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.MainScreen.resources
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Login.resources
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.ReserveFriday.resources
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Form1.resources
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.MapF1.resources
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Pay2.resources
+C:\Users\모블\source\repos\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Pay1.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\bin\Debug\ConcertTicketing.exe.config
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\bin\Debug\ConcertTicketing.exe
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\bin\Debug\ConcertTicketing.pdb
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.csproj.AssemblyReference.cache
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Form1.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Login.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.MainScreen.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.MapF1.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Pay1.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Pay2.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.Properties.Resources.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.ReserveFriday.resources
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.csproj.GenerateResource.cache
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.csproj.CoreCompileInputs.cache
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.exe
+C:\Users\samsung-user\Desktop\Moble_강의자료 및 기타자료\5_융합AI_프로젝트\1_C#_키오스크 개인 미션\21_Kiosk_윤영서\ConcertTicketing\ConcertTicketing\obj\Debug\ConcertTicketing.pdb
