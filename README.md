@@ -78,12 +78,14 @@ C# WinForms 기반으로 구현한
 
 ## 📷 실행 화면
 
-- 메인 화면 / 좌석도 화면 / 결제 화면
-
+- 메인 화면 
 <img width="588" height="490" alt="image" src="https://github.com/user-attachments/assets/97ad1b9c-1e61-4b50-8dbb-9dcbbc95c11d" />
-<img width="656" height="493" alt="image" src="https://github.com/user-attachments/assets/92085433-bafe-4173-bd6a-ec32380ff586" />
-<img width="1260" height="488" alt="image" src="https://github.com/user-attachments/assets/577b152c-2a37-4cd8-84c0-ed1e84c5f66a" />
 
+- 좌석도 화면
+<img width="656" height="493" alt="image" src="https://github.com/user-attachments/assets/92085433-bafe-4173-bd6a-ec32380ff586" />
+
+- 결제 화면
+<img width="1260" height="488" alt="image" src="https://github.com/user-attachments/assets/577b152c-2a37-4cd8-84c0-ed1e84c5f66a" />
 
 ---
 
